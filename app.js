@@ -148,7 +148,7 @@ function extract2(obj,str,type){
 		table = [
 		...["B","test","test music","to share"].pickle2(table),
 		...table,
-		...["BIN","SHARE (JAPAN)","DISCORD","MOUSE SELECTION","ELECTRON"].pickle2(table)
+		...["BIN","SHARE ( JAPAN )","DISCORD","MOUSE SELECTION","ELECTRON"].pickle2(table)
 		]
 
 		delete Array.prototype.pickle2
